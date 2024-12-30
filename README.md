@@ -9,3 +9,13 @@ SQL,Python,Snowflake,JupiterNotebook
 • Train frequency across stations.\
 • Day-wise distribution of operations.\
 • Popular routes and stations.
+## Conclusion
+• This data engineering project successfully utilized Snowflake for efficient data loading, cleaning, 
+and analysis.\
+• Key patterns and insights were uncovered, including popular stations, peak operational days, and
+high-traffic routes.\
+• Visualizations provided actionable perspectives to enhance train operations and resource 
+allocation.\
+• Demonstrated the power of Snowflake in handling large datasets and facilitating data-driven
+decisions.\
+• Enhanced understanding of operational inefficiencies and peak usage patterns.
