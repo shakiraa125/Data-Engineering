@@ -6,6 +6,6 @@ To analyze train operation data and uncover trends, patterns, and actionable ins
 ### • SkillStack :
 SQL,Python,Snowflake,JupiterNotebook
 ## Key Focus Areas:
-• Train frequency across stations./
-• Day-wise distribution of operations./
+• Train frequency across stations.\
+• Day-wise distribution of operations.\
 • Popular routes and stations.
