@@ -5,11 +5,11 @@ This project focuses on analyzing train operation data to identify key trends, p
 To analyze train operation data and uncover trends, patterns, and actionable insights.
 ### • SkillStack :
 SQL,Python,Snowflake,JupiterNotebook
-## Key Focus Areas:
+### Key Focus Areas:
 • Train frequency across stations.\
 • Day-wise distribution of operations.\
 • Popular routes and stations.
-## Conclusion
+### Conclusion
 • This data engineering project successfully utilized Snowflake for efficient data loading, cleaning, 
 and analysis.\
 • Key patterns and insights were uncovered, including popular stations, peak operational days, and
